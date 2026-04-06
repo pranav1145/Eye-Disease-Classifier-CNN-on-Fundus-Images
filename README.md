@@ -72,7 +72,7 @@ eye-disease-classifier/
 
 1. Clone this repository
 ```bash
-git clone https://github.com/pranavjaiswalai/eye-disease-classifier.git
+git clone https://github.com/pranav1145/Eye-Disease-Classifier-CNN-on-Fundus-Images.git
 cd eye-disease-classifier
 ```
 
