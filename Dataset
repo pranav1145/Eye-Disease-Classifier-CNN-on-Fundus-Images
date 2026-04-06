@@ -1,0 +1,5 @@
+Fundus images resized to 224 × 224 RGB
+4 disease classes
+Split: 70% train / 20% validation / 10% test
+Batch size: 64
+Normalised to [0, 1] range
