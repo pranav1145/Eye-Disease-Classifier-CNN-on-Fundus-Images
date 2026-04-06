@@ -1,0 +1,9 @@
+A custom sequential CNN built from scratch with:
+
+Multiple Conv2D layers (64 → 128 filters) with ReLU activation
+BatchNormalization after each conv block to stabilise training
+MaxPool2D for spatial downsampling
+Dropout (0.3) to reduce overfitting
+Fully connected Dense layers (64 → 128 → 4)
+Softmax output for multi-class classification
+EarlyStopping on validation accuracy (patience = 20)
